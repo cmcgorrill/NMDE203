@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+/* CSS Document*/
+
+
+div {
+    background-color: aquamarine;
+    min-height: 50px; 
+}
+
+
+.row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+   /* background-color: azure; */ 
+  border: 1px solid black;
+    
+}
+
+.cellBackground {
+    background-color: aliceblue;
+}
+
