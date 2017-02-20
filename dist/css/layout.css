@@ -2,10 +2,9 @@
 
 /* CSS Document*/
 
-
-div {
-    background-color: aquamarine;
-    min-height: 50px; 
+#nav{
+    background-color: #AAAAAA;
+    min-height: 250px; 
 }
 
 
@@ -13,11 +12,29 @@ div {
     padding-top: 10px;
     padding-bottom: 10px;
    /* background-color: azure; */ 
-  border: 1px solid black;
+    display: flex;
+    min-height: 150px;
     
 }
 
-.cellBackground {
-    background-color: aliceblue;
+.topRow {
+    padding-top: 0;
 }
 
+.bottomRow {
+    padding-bottom: 0;
+}
+
+.cell {
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+
+
+img {
+    max-width: 60%;
+}
+
+#logo {
+    margin-top: 160px;
+}
