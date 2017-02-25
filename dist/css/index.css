@@ -1,3 +1,12 @@
 .nav {
     text-align: center;
 }
+.nav-pills > li > a {
+    background-color: #EEEEEE;
+    margin: 5px;
+        
+}
+
+.assignment {
+    
+}
