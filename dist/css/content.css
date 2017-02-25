@@ -1,0 +1,35 @@
+
+#cover {
+    padding-top: 0px;
+}
+
+#header-image {
+    margin: 0;
+    min-height: 25em;
+}
+
+#title-text {
+    background-color: #C9C9C9;
+}
+
+#header {
+    
+}
+
+#title {
+    position: absolute;
+    min-width: 100%;
+    bottom: -15%;
+}
+
+.flex-height {
+    min-height: 0px;
+}
+
+#author-name {
+    text-align: center;
+}
+
+#total-cover {
+    margin-bottom: 50px;
+}
