@@ -41,3 +41,16 @@
 #title-font {
     font-size: 24pt;
 }
+
+.author-name {
+    font-size: 24pt;
+}
+
+#sidebar {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.sidebar-section {
+    margin-bottom: 35px;
+}
