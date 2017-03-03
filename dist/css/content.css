@@ -24,6 +24,7 @@
 
 .flex-height {
     min-height: 0px;
+    padding: 0;
 }
 
 #author-name {
