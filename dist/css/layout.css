@@ -4,6 +4,7 @@
     position: fixed;
     top:0;
     z-index: 10;
+    width: 100%;
 }
 
 .hidden {
@@ -12,7 +13,7 @@
 
 #nav {
     min-height: 4em;
-    min-width: 100%;
+    width: 100%;
     border-radius: 0;
     background-color: #444444;
 }
@@ -52,7 +53,8 @@
 }
 
 .cell {
-    background-color: #AAAAAA;
+    padding-left: 0;
+    padding-right: 0;
 /*    border: 1px solid black;*/
 }
 

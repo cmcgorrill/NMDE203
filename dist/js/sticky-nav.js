@@ -1,4 +1,4 @@
-var num = 253;
+var num = 260;
 
 $(window).bind('scroll', function () {
     if ($(window).scrollTop() > num) {
