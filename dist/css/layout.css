@@ -11,8 +11,9 @@
 }
 
 #nav {
-    min-height: 3em;
+    min-height: 4em;
     min-width: 100%;
+    border-radius: 0;
     background-color: #444444;
 }
 
